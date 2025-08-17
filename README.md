@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Networking Projects</b>
-  - [Mega Networking Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mega Networking Lab](https://github.com/Ifycharles01/MegaNetworkingLab)
   - [Configuring Static Routes](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Project Management Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
