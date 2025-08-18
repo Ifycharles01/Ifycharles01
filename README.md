@@ -4,7 +4,7 @@
 
 - <b>Networking Projects</b>
   - [Mega Networking Lab](https://github.com/Ifycharles01/MegaNetworkingLab)
-  - [Configuring Static Routes](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Configuring Static Routes](https://github.com/Ifycharles01/End-to-End-Static-Routing-/blob/main/README.md) 
 - <b>Project Management Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
