@@ -6,8 +6,7 @@
   - [Mega Networking Lab](https://github.com/Ifycharles01/MegaNetworkingLab)
   - [Configuring Static Routes](https://github.com/Ifycharles01/End-to-End-Static-Routing-/blob/main/README.md) 
 - <b>Project Management Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Georgian College Capstone Project](https://github.com/Ifycharles01/Capstone-Project-on-Integrating-AI-into-ACME-learning-system)
     
 <h2>🥇My Certifications:</h2>
 
