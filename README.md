@@ -14,7 +14,6 @@
  [<img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />](https://github.com/Ifycharles01/MegaNetworkingLab/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
 
 <h2>🛠️ Tools:</h2>
-<b>Networking </b>
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Planner-2E8B57?&style=for-the-badge&logo=MicrosoftPlanner&logoColor=white" />
