@@ -10,7 +10,7 @@
     
 <h2>🥇My Certifications:</h2>
 
-- [Cisco Certified Network Associate (CCNA)](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Cisco Certified Network Associate (CCNA)](https://github.com/Ifycharles01/MegaNetworkingLab/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
 
 - <img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     
