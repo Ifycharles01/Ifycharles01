@@ -17,7 +17,7 @@
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-GNS3-4682B4?&style=for-the-badge&logo=GNS3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Planner-2E8B57?&style=for-the-badge&logo=MicrosoftPlanner&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Project-2E8B57?&style=for-the-badge&logo=MicrosoftPlanner&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
