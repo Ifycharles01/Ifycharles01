@@ -2,21 +2,22 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Networking Projects</b>
+ <b>Networking Projects</b>
   - [Mega Networking Lab](https://github.com/Ifycharles01/MegaNetworkingLab)
-  - [Configuring Static Routes](https://github.com/Ifycharles01/End-to-End-Static-Routing-/blob/main/README.md) 
-- <b>Project Management Projects</b>
+  - [Configuring Static Routes](https://github.com/Ifycharles01/End-to-End-Static-Routing-/blob/main/README.md)
+    
+ <b>Project Management Projects</b>
   - [Georgian College Capstone Project](https://github.com/Ifycharles01/Capstone-Project-on-Integrating-AI-into-ACME-learning-system)
  
-    
 <h2>🥇My Certifications:</h2>
 
-- [<img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />](https://github.com/Ifycharles01/MegaNetworkingLab/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
+ [<img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />](https://github.com/Ifycharles01/MegaNetworkingLab/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
 
-<h2>🛠️ Tools Used:</h2>
-- <b>Networking Tools</b>
+<h2>🛠️ Tools:</h2>
+<b>Networking </b>
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Planner-2E8B57?&style=for-the-badge&logo=MicrosoftPlanner&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
