@@ -11,10 +11,6 @@
 <h2>🥇My Certifications:</h2>
 
 - [<img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />](https://github.com/Ifycharles01/MegaNetworkingLab/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
-    
-<h2>📺 YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
